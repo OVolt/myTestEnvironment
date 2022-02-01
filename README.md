@@ -1,3 +1,3 @@
 # myTestEnvironment
 
-this is sample project
+this is a sample project
