@@ -2,7 +2,7 @@
 This solves all your infrastructure neews. (Just kidding, this, is just an example :) )
 
 ## Usage
-----
+~~~
 module "my_ec2_instande" {
   source = "github.com/cobus"   # enter the github repo
 
@@ -11,4 +11,4 @@ module "my_ec2_instande" {
   number_of_instances = 1
   ec2_ami_id          = <your AMI ID to use to launch the instance>
 }
-----
+~~~
